@@ -1,0 +1,14 @@
+setup.py
+lagou/__init__.py
+lagou/items.py
+lagou/pipelines.py
+lagou/settings.py
+lagou/middlewares/RandomUserAgent.py
+lagou/middlewares/__init__.py
+lagou/spiders/__init__.py
+lagou/spiders/lagou_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
